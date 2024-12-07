@@ -1,0 +1,21 @@
+{
+  "name": "telo",
+  "version": "1.0.0",
+  "description": "Mi serve solo per vedere se posso metter il telo o no, e' inutile",
+  "main": "telo.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "path": "^0.12.7",
+    "typescript": "^5.7.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0"
+  }
+}
